@@ -1,8 +1,6 @@
 # compiled output
-producer/dist
-producer/node_modules
-consumer/dist
-consumer/node_modules
+/dist
+/node_modules
 
 # Logs
 logs
